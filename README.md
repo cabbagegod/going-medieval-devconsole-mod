@@ -15,7 +15,7 @@ Installing this mod is very simple but before you continue ensure that a version
 4. Hit "Browse..." to open your file explorer. 
 5. Download the [release](https://github.com/cabbagegod/going-medieval-devconsole-mod/releases) for your version of the game from the releases and drag it into the folder you just opened and ensure that it overwrites the old file.
 *You can check the main lobby to make sure you are running the mod.*
-![image](https://user-images.githubusercontent.com/62683395/120890244-52069f80-c5cf-11eb-993f-0f51967cf9d2.png)
+![image](https://user-images.githubusercontent.com/62683395/120890481-f0dfcb80-c5d0-11eb-9da9-f8af5646e784.png)
 
 ## Repairing the original game (Steam)
 
