@@ -1,9 +1,11 @@
 # Going Medieval Console Mod
 *The auto bug report feature has been stripped from this assembly so the devs don't get spammed with any errors that may not exist in the actual game. If you encounter actual issues they will not be sent off to the devs.*
 
-**Bug found on version v0.5.28.6, please wait for repairs.**
+**NEW UPDATE FOR LATEST VERSION!**
+* Dev tools now function as intended
+* The report button no longer opens the console, instead there is a "dev tools" button on the top bar.
 
-This mod makes it so clicking the "report bugs or send feedback" button opens the developer console instead of the regular menu.
+This mod adds a dev tools button on the top bar in-game to open the dev console. 
 The mod is currently built off of game **v0.5.28.6**, if this isn't the version that your client is running then I recommend you don't try to use this. Tag ***@CabbageGod#6600*** on Discord if you really want this mod updated.
 ![0b46a79ae708fd6d36d1ac7837245cce](https://user-images.githubusercontent.com/62683395/120890354-289a4380-c5d0-11eb-9565-a47e020e8888.gif)
 
