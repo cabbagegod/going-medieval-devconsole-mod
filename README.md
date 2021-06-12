@@ -7,7 +7,8 @@
 
 This mod adds a dev tools button on the top bar in-game to open the dev console. 
 The mod is currently built off of game **v0.5.28.6**, if this isn't the version that your client is running then I recommend you don't try to use this. Tag ***@CabbageGod#6600*** on Discord if you really want this mod updated.
-![0b46a79ae708fd6d36d1ac7837245cce](https://user-images.githubusercontent.com/62683395/120890354-289a4380-c5d0-11eb-9565-a47e020e8888.gif)
+![dd5932bcb6f56dfc31951cbd168d0e60](https://user-images.githubusercontent.com/62683395/121785042-7ccf9580-cb85-11eb-837a-3eddbadcf31d.gif)
+
 
 
 ## How to install (Steam)
