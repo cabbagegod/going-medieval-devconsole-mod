@@ -4,7 +4,7 @@
 **Verified to still work on v0.5.28.6**
 
 This mod makes it so clicking the "report bugs or send feedback" button opens the developer console instead of the regular menu.
-The mod is currently built off of game **v0.5.28.6**, if this isn't the version that your client is running then I recommend you don't try to use this. Tag ***@cabbagegod#6600*** on Discord if you really want this mod updated.
+The mod is currently built off of game **v0.5.28.6**, if this isn't the version that your client is running then I recommend you don't try to use this. Tag ***@CabbageGod#6600*** on Discord if you really want this mod updated.
 ![0b46a79ae708fd6d36d1ac7837245cce](https://user-images.githubusercontent.com/62683395/120890354-289a4380-c5d0-11eb-9565-a47e020e8888.gif)
 
 
